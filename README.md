@@ -2,7 +2,7 @@
 ## Machine Learning Course 2024
 # 📘 Course Overview
 
-In this course, we will dive deep into the exciting field of machine learning. You'll learn the fundamentals of machine learning, explore various algorithms, and gain practical experience through hands-on assignments and projects.
+In this repository, which is dedicated to the machine learning course at K.N.Toosi University, the practical and interesting topics of working with **Machine Learning** have been investigated.
 
 ## 📚 Course Topics:
 
@@ -63,4 +63,6 @@ In this course, we will dive deep into the exciting field of machine learning. Y
 ### In this mini project, the following has been done:
 In code *RL_Wumpus_world_problem*, using the **RL** (Reinforcement Learning) model, the **"Wumpus_world_problem"** problem has been investigated and solved using **Q-Learning** and **DeeP Q-Learning** algorithms.
 
+Finally, in the 📁Midterm and 📁Final-exam folders, the exam codes of the learned items are placed.
 
+**🌺Thank you for your attention! 🌺**
